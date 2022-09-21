@@ -11,8 +11,4 @@
     <ProjectReference Include="..\IMS.UseCases\IMS.UseCases.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="NovaPasta\" />
-  </ItemGroup>
-
 </Project>
