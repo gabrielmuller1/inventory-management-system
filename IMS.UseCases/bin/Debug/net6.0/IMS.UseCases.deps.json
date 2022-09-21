@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IMS.UseCases/1.0.0": {
+        "dependencies": {
+          "IMS.CoreBusiness": "1.0.0"
+        },
+        "runtime": {
+          "IMS.UseCases.dll": {}
+        }
+      },
+      "IMS.CoreBusiness/1.0.0": {
+        "runtime": {
+          "IMS.CoreBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMS.UseCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IMS.CoreBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

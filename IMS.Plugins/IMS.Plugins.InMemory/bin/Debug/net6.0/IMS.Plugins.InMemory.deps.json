@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IMS.Plugins.InMemory/1.0.0": {
+        "dependencies": {
+          "IMS.CoreBusiness": "1.0.0",
+          "IMS.UseCases": "1.0.0"
+        },
+        "runtime": {
+          "IMS.Plugins.InMemory.dll": {}
+        }
+      },
+      "IMS.CoreBusiness/1.0.0": {
+        "runtime": {
+          "IMS.CoreBusiness.dll": {}
+        }
+      },
+      "IMS.UseCases/1.0.0": {
+        "dependencies": {
+          "IMS.CoreBusiness": "1.0.0"
+        },
+        "runtime": {
+          "IMS.UseCases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMS.Plugins.InMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IMS.CoreBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IMS.UseCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

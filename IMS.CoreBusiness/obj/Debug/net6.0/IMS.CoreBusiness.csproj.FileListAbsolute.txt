@@ -1,0 +1,12 @@
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.deps.json
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfo.cs
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\refint\IMS.CoreBusiness.dll
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\ref\IMS.CoreBusiness.dll

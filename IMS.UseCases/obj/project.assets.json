@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "IMS.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IMS.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.CoreBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMS.CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../IMS.CoreBusiness/IMS.CoreBusiness.csproj",
+      "msbuildProject": "../IMS.CoreBusiness/IMS.CoreBusiness.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "IMS.CoreBusiness >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gabriel.m\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+      "projectName": "IMS.UseCases",
+      "projectPath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+      "packagesPath": "C:\\Users\\gabriel.m\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.UseCases\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gabriel.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+              "projectPath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
