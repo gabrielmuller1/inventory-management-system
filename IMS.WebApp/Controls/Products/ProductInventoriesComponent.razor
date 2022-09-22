@@ -1,4 +1,7 @@
-﻿<SearchAndDisplayInventoriesComponent
+﻿<div class="card">
+    <div class="card-body">
+
+<SearchAndDisplayInventoriesComponent
     OnInventorySelected="OnInventorySelected"
 ></SearchAndDisplayInventoriesComponent>
 @if (this.Product.ProductInventories != null && this.Product.ProductInventories.Count > 0)
@@ -33,6 +36,9 @@
         </tbody>
     </table>
 }
+
+    </div>
+</div>
 
 @code {
     [Parameter]
