@@ -32,3 +32,4 @@ C:\Users\gabriel.m\source\repos\IMS\IMS.WebApp\bin\Debug\net6.0\IMS.Plugins.InMe
 C:\Users\gabriel.m\source\repos\IMS\IMS.WebApp\bin\Debug\net6.0\IMS.UseCases.pdb
 C:\Users\gabriel.m\source\repos\IMS\IMS.WebApp\bin\Debug\net6.0\IMS.CoreBusiness.pdb
 C:\Users\gabriel.m\source\repos\IMS\IMS.WebApp\obj\Debug\net6.0\IMS.WebApp.csproj.CopyComplete
+C:\Users\gabriel.m\source\repos\IMS\IMS.WebApp\obj\Debug\net6.0\scopedcss\Controls\Inventories\SearchAndDisplayInventoriesComponent.razor.rz.scp.css

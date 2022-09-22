@@ -4,13 +4,12 @@
     OnSearchInventory="OnSearchInventory"></SearchInventoryComponent>
 @if (_inventories.Count > 0)
 {
-    <div style="overflow-y:auto;max-height:300px;border: 1px solid silver; padding-top:5px">
-        <ul style="list-style-type: none">
+    <div style="search-result">
+        <ul>
             @foreach (var inv in _inventories)
             {
                 <li 
                     @key="inv.InventoryId" 
-                    style="cursor:pointer"
                     @onclick="@(async () => { await OnSelectInventory(inv);})">
                     @inv.InventoryName
                 </li>
