@@ -1,4 +1,5 @@
 ﻿using IMS.CoreBusiness;
+using IMS.UseCases.Inventories.Interfaces;
 using IMS.UseCases.PluginInterfaces;
 using System;
 using System.Collections.Generic;
@@ -41,9 +42,44 @@ namespace IMS.Plugins.InMemory
             return Task.CompletedTask;
         }
 
-        public Task<Product?> GetProductByIdAsync ( int productId )
+        public async Task<Product?> GetProductByIdAsync ( int productId )
         {
-            throw new NotImplementedException ();
+            var prod = _products.FirstOrDefault ( x => x.ProductId == productId ) ;
+            var newProd = new Product ();
+            if(prod != null)
+            {
+                newProd.ProductId = prod.ProductId;
+                newProd.ProductName = prod.ProductName;
+                newProd.Quantity = prod.Quantity;
+                newProd.Price = prod.Price;
+                newProd.ProductInventories = new List<ProductInventory> ();
+                if(prod.ProductInventories != null && prod.ProductInventories.Count > 0)
+                {
+                    foreach(var prodInv in prod.ProductInventories)
+                    {
+                        var newProdInv = new ProductInventory
+                        {
+                            InventoryId = prodInv.InventoryId,
+                            ProductId = prodInv.ProductId,
+                            Product = prod,
+                            Inventory = new Inventory (),
+                            InventoryQuantity = prodInv.InventoryQuantity
+                        };
+
+                        if(prodInv.Inventory != null)
+                        {
+                            newProdInv.Inventory.InventoryId = prodInv.Inventory.InventoryId;
+                            newProdInv.Inventory.InventoryName = prodInv.Inventory.InventoryName;
+                            newProdInv.Inventory.Quantity = prodInv.Inventory.Quantity;
+                            newProdInv.Inventory.Price = prodInv.Inventory.Price;
+                        }
+
+                        newProd.ProductInventories.Add ( newProdInv );
+                    }
+                }
+
+            }
+            return await Task.FromResult(newProd);
         }
 
         public Task UpdateProductAsync ( Product product )

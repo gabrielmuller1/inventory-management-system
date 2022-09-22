@@ -17,9 +17,11 @@ namespace IMS.UseCases.Inventories
         {
             this.inventoryRepository = inventoryRepository;
         }
+
         public async Task<Inventory> ExecuteAsync ( int inventoryId )
         {
             return await this.inventoryRepository.GetInventoryByIdAsync ( inventoryId );
         }
+
     }
 }
