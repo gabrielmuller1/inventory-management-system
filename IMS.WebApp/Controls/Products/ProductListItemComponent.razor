@@ -1,4 +1,6 @@
-﻿@foreach(var prod in Products)
+﻿@inject NavigationManager NavigationManager
+
+@foreach(var prod in Products)
 {
     <tr>
         <td>@prod.ProductName</td>
@@ -7,7 +9,9 @@
         <td>
             <button
                 type="button"
-                class="btn btn-light">Editar</button>
+                class="btn btn-light"
+                @onclick="@(() => EditProduct(prod))"
+            >Editar</button>
         </td>
     </tr>
 }
@@ -15,4 +19,11 @@
 @code {
     [Parameter]
     public List<Product> Products { get; set; } = new List<Product>();
+
+    private void EditProduct(Product product)
+    {
+        NavigationManager.NavigateTo($"/editproduct/{product.ProductId}");
+    }
 }
+
+
