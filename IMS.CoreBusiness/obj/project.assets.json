@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gabriel.m\\.nuget\\packages\\": {}
+    "C:\\Users\\TI PORMADE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+      "projectUniqueName": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
       "projectName": "IMS.CoreBusiness",
-      "projectPath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
-      "packagesPath": "C:\\Users\\gabriel.m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.CoreBusiness\\obj\\",
+      "projectPath": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+      "packagesPath": "C:\\Users\\TI PORMADE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabriel.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TI PORMADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -10,3 +10,27 @@ C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBu
 C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\refint\IMS.CoreBusiness.dll
 C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.pdb
 C:\Users\gabriel.m\source\repos\IMS\IMS.CoreBusiness\obj\Debug\net6.0\ref\IMS.CoreBusiness.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.deps.json
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfo.cs
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\refint\IMS.CoreBusiness.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\saulo\source\repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\ref\IMS.CoreBusiness.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.deps.json
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfo.cs
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\refint\IMS.CoreBusiness.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.CoreBusiness\obj\Debug\net6.0\ref\IMS.CoreBusiness.dll

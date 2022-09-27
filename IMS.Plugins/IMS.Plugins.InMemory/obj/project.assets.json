@@ -46,19 +46,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabriel.m\\.nuget\\packages\\": {}
+    "C:\\Users\\TI PORMADE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+      "projectUniqueName": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
       "projectName": "IMS.Plugins.InMemory",
-      "projectPath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
-      "packagesPath": "C:\\Users\\gabriel.m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
+      "projectPath": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+      "packagesPath": "C:\\Users\\TI PORMADE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabriel.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TI PORMADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,11 +72,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-              "projectPath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+            "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+              "projectPath": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
             },
-            "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-              "projectPath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+            "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj": {
+              "projectPath": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj"
             }
           }
         }

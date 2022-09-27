@@ -15,3 +15,37 @@ C:\Users\gabriel.m\source\repos\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\n
 C:\Users\gabriel.m\source\repos\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\refint\IMS.Plugins.InMemory.dll
 C:\Users\gabriel.m\source\repos\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.pdb
 C:\Users\gabriel.m\source\repos\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\ref\IMS.Plugins.InMemory.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.Plugins.InMemory.deps.json
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.Plugins.InMemory.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.Plugins.InMemory.pdb
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.UseCases.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.UseCases.pdb
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.csproj.AssemblyReference.cache
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.AssemblyInfoInputs.cache
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.AssemblyInfo.cs
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.csproj.CopyComplete
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\refint\IMS.Plugins.InMemory.dll
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.pdb
+C:\Users\saulo\source\repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\ref\IMS.Plugins.InMemory.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.Plugins.InMemory.deps.json
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.Plugins.InMemory.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.Plugins.InMemory.pdb
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.UseCases.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net6.0\IMS.UseCases.pdb
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.csproj.AssemblyReference.cache
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.AssemblyInfoInputs.cache
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.AssemblyInfo.cs
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.csproj.CopyComplete
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\refint\IMS.Plugins.InMemory.dll
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\IMS.Plugins.InMemory.pdb
+C:\Users\TI PORMADE\Source\Repos\inventory-management-system\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net6.0\ref\IMS.Plugins.InMemory.dll
