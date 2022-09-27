@@ -1,0 +1,23 @@
+﻿<div class="input-group">
+    <input type="text"
+        class="form-control"
+           placeholder="Digite o nome do produto"
+        @bind-value="productNameToSearch"/>
+    <button
+        type="success"
+        class="btn-success input-group-text"
+        @onclick="OnSearch">Buscar</button>
+</div>
+
+@code {
+    private string productNameToSearch = string.Empty;
+
+    [Parameter]
+    public EventCallback<string> OnSearchProduct { get; set; }
+
+    private void OnSearch()
+    {
+        OnSearchProduct.InvokeAsync(productNameToSearch);
+    }
+
+}

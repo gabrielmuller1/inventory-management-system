@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.WebApp\\IMS.WebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectName": "IMS.CoreBusiness",
+        "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {},
+          "https://www.nuget.org/packages/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "projectName": "IMS.Plugins.InMemory",
+        "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {},
+          "https://www.nuget.org/packages/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              },
+              "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectName": "IMS.UseCases",
+        "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {},
+          "https://www.nuget.org/packages/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.WebApp\\IMS.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.WebApp\\IMS.WebApp.csproj",
+        "projectName": "IMS.WebApp",
+        "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.WebApp\\IMS.WebApp.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {},
+          "https://www.nuget.org/packages/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+                "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
+              },
+              "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

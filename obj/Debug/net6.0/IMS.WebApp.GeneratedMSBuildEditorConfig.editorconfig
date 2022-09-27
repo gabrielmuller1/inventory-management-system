@@ -1,0 +1,116 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IMS.WebApp
+build_property.RootNamespace = IMS.WebApp
+build_property.ProjectDir = C:\Users\saulo\source\repos\inventory-management-system\IMS.WebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\saulo\source\repos\inventory-management-system\IMS.WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Controls/Inventories/InventoryListComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcSW52ZW50b3JpZXNcSW52ZW50b3J5TGlzdENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Controls/Inventories/InventoryListItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcSW52ZW50b3JpZXNcSW52ZW50b3J5TGlzdEl0ZW1Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Controls/Inventories/SearchInventoryComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcSW52ZW50b3JpZXNcU2VhcmNoSW52ZW50b3J5Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Controls/Products/ProductInventoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdHNcUHJvZHVjdEludmVudG9yaWVzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Controls/Products/ProductListComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdHNcUHJvZHVjdExpc3RDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Controls/Products/ProductListItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdHNcUHJvZHVjdExpc3RJdGVtQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Controls/Products/SearchProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcUHJvZHVjdHNcU2VhcmNoUHJvZHVjdENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/Inventories/AddInventory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50b3JpZXNcQWRkSW52ZW50b3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/Inventories/EditInventory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50b3JpZXNcRWRpdEludmVudG9yeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/Inventories/InventoryList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52ZW50b3JpZXNcSW52ZW50b3J5TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/Products/AddProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQWRkUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/Products/EditProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRWRpdFByb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/Products/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Controls/Inventories/SearchAndDisplayInventoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcSW52ZW50b3JpZXNcU2VhcmNoQW5kRGlzcGxheUludmVudG9yaWVzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-4twsxdpwqe
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0hk3laf8xw
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zzjden2u8d
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saulo/source/repos/inventory-management-system/IMS.WebApp/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
