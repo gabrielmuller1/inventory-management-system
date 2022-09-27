@@ -1,28 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {}
+    "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+    "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "projectName": "IMS.CoreBusiness",
-        "projectPath": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
-        "packagesPath": "C:\\Users\\TI PORMADE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.CoreBusiness\\obj\\",
+        "projectPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\TI PORMADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {},
+          "https://www.nuget.org/packages/": {}
         },
         "frameworks": {
           "net6.0": {
@@ -55,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

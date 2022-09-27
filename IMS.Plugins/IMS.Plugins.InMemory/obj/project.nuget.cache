@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g2/gH/AN4CICXKvqsEom5FxkXWvF9IxVH/sHZ3GIJA+NVv170fkL9d79buKyVxjac26tsIFnMknpVXPKKpI8YQ==",
+  "dgSpecHash": "ZDP9aIz1/EnYrGPFORuxmYU8jwMjAbJN69dFkrF/NfXiVlQHSaNuVY4WUmC10CjyeKZMGwF+pSXJGU7VLxAacQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TI PORMADE\\Source\\Repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+  "projectFilePath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
