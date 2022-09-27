@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y0+e6vPaF4+3K+8SofeSZEu0vI3kpGfaFqg/Afol9twAi/6x97Icgvcy2TTY/FVoSqQAiTMCH2O3UeIkGU/xdA==",
+  "dgSpecHash": "xafM7xIAdgxahXJCu6hk661KwauXZt7O+9aLdQ8Ck4jtmOeKIDW758GVuJMLsVthHD/evoqMTvFvmCv05YWNyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.m\\source\\repos\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+  "projectFilePath": "C:\\Users\\saulo\\source\\repos\\inventory-management-system\\IMS.UseCases\\IMS.UseCases.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
